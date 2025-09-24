@@ -59,5 +59,13 @@ export const modeling: Modeling[] = [
       {source: "https://youtube.com/embed/Evc3fsMhMhA?si=4GYJikBW7MKjiz4X", type: MediaType.YouTube}
     ],
     software : Software.Blender,
+  },
+  {
+    name: "Malevolent Shrine",
+    description: "Sukuna's Domain Expansion from Jujutsu Kaisen",
+    media : [
+      {source: "  https://youtube.com/embed/wY_ZRofKXhs?feature=share", type: MediaType.YouTube}
+    ],
+    software : Software.Blender,
   }
 ]
